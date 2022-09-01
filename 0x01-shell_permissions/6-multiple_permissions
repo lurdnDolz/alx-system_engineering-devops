@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chown ug+x,o+r hello
