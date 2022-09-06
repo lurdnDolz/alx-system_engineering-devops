@@ -1,3 +1,4 @@
+6. Local variable -> script that creates a new local variable.
 5. Local variables -> script that lists all local variables and environment variables, and functions
 4. Global variables -> script that lists environment variables.
                      SHELL VARIABLES
