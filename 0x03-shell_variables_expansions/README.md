@@ -1,4 +1,5 @@
 14. Everyone is a proponent of strong encryption -> script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+16.  I'm an instant star. Just add water and stir -> script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
 15. The eggs of the brood need to be an odd number
 
  -> script that prints every other line from the input, starting with the first line.
