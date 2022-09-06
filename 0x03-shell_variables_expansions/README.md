@@ -1,4 +1,7 @@
 14. Everyone is a proponent of strong encryption -> script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+15. The eggs of the brood need to be an odd number
+
+ -> script that prints every other line from the input, starting with the first line.
 9. Divide and rule -> script that prints the result of POWER divided by DIVIDE, followed by a new line.
 14. Decimal to Hexadecimal -> script that converts a number from base 10 to base 16.
 13. printf '%0.2f\n' $NUM -> script that prints a number with two decimal places, followed by a new line.
